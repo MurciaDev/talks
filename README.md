@@ -20,7 +20,9 @@
 
 - [No, no eres un usuario](./meetup-29-03-2017/no-no-eres-un-usuario/noeresunusuario.md) ( [en HTML](./meetup-29-03-2017/no-no-eres-un-usuario/noeresunusuario.html) )
 
+- [MIDI & Redux](https://elenatorro.github.io/murcia-frontend-presentation/#slide=1) [(source code)](https://github.com/elenatorro/midi-redux) por [Elena Torró (@eletorro)](https://twitter.com/eletorro)
+
+
 ### April 2017
 
 - [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-4/fullscreen)
-- [MIDI & Redux](https://elenatorro.github.io/murcia-frontend-presentation/#slide=1) [(source code)](https://github.com/elenatorro/midi-redux) por [Elena Torró (@eletorro)](https://twitter.com/eletorro)
