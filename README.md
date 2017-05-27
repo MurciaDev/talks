@@ -26,3 +26,10 @@
 ### April 2017
 
 - [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-4/fullscreen)
+
+
+### May 2017
+
+- [Flexbox 101 (:zap:)](https://slides.com/breadadams/flexbox-101/) por [Brad Adams (@breadadams)](https://twitter.com/breadadams)
+
+- [Programación literaria para frontend](#) por [Patricio Martínez (@maxxcan)](https://twitter.com/maxxcan)
