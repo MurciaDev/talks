@@ -4,7 +4,7 @@
 
 ### January 2017
 
-![Jan 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/imagesTest/img/banner_26012017.jpeg)
+![Jan 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/master/img/banner_26012017.jpeg)
 
 - [Icebreaker](http://slides.com/murciafrontendmurciafrontend/deck)
 
@@ -12,15 +12,15 @@
 
 ### February 2017
 
-![Feb 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/imagesTest/img/banner_22022017.jpeg)
+![Feb 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/master/img/banner_22022017.jpeg)
 
 - [Icebreaker](http://slides.com/murciafrontendmurciafrontend/deck-3)
 
-- [Nomenclaturas CSS](https://drive.google.com/open?id=0B0FWfNNansXfdmdCVVhzY2FvYkE)
+- [Nomenclaturas CSS](https://drive.google.com/open?id=0B0FWfNNansXfdmdCVVhzY2FvYkE) por [Javier Sánchez (@xavis)](https://twitter.com/xavis)
 
 ### March 2017
 
-![Mar 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/imagesTest/img/banner_29032017.jpeg)
+![Mar 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/master/img/banner_29032017.jpeg)
 
 - [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-0669e372-93af-491f-b612-19a760d39895)
 
@@ -31,14 +31,16 @@
 
 ### April 2017
 
-![Apr 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/imagesTest/img/banner_26042017.jpeg)
+![Apr 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/master/img/banner_26042017.jpeg)
 
 - [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-4/fullscreen)
 
 
 ### May 2017
 
-![May 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/imagesTest/img/banner_26052017.jpeg)
+![May 2017 Banner](https://raw.githubusercontent.com/breadadams/Talks/master/img/banner_26052017.jpeg)
+
+- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-5/)
 
 - [Flexbox 101 (:zap:)](https://slides.com/breadadams/flexbox-101/) por [Brad Adams (@breadadams)](https://twitter.com/breadadams)
 
