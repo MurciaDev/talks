@@ -8,7 +8,7 @@
 
 - [Icebreaker](http://slides.com/murciafrontendmurciafrontend/deck)
 
-- [EmberJS: or How I learned to stop worrying and love JavaScript frameworks](https://docs.google.com/presentation/d/1KihLzGkToTjiYidVVZv-IygiKeczJ6f0elgi2ZsvsGs) ([source code](https://github.com/Gorzas/ember-example)) por [José David Cano @gorzas](https://twitter.com/gorzas)
+- [EmberJS: or How I learned to stop worrying and love JavaScript frameworks](https://docs.google.com/presentation/d/1KihLzGkToTjiYidVVZv-IygiKeczJ6f0elgi2ZsvsGs) ([source code](https://github.com/Gorzas/ember-example)) por [José David Cano (@gorzas)](https://twitter.com/gorzas)
 
 ### February 2017
 
