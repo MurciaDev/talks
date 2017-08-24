@@ -39,6 +39,8 @@
 
 - [Diseñador & Desarrollador: Una historia de amor](http://slides.com/murciafrontendmurciafrontend/deck-7/fullscreen) por [Silvia Calavera (@silviacalavera)](https://twitter.com/silviacalavera)
 
+- [Optimización de rendimiento web para dinosaurios](https://jmlweb.github.io/optimizacion-dinosaurios/) por [José Manuel Lucas (@jmlweb)](https://twitter.com/jmlweb)
+
 
 ### May 2017
 
