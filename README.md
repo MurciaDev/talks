@@ -1,6 +1,6 @@
 # MurciaFrontend Talks
 
-## Previous talks
+## Previous talks season 1
 
 ### January 2017
 
@@ -51,3 +51,11 @@
 - [Flexbox 101 (:zap:)](https://slides.com/breadadams/flexbox-101/) por [Brad Adams (@breadadams)](https://twitter.com/breadadams)
 
 - [Programación literaria para frontend](#) por [Patricio Martínez (@maxxcan)](https://twitter.com/maxxcan)
+
+## Previous talks season 2
+
+### September 2017
+
+![September 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_28092017.jpeg)
+
+- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-4-7/fullscreen)
