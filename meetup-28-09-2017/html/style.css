@@ -1,0 +1,96 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+body {
+  width: 520px;
+  margin: 3em auto;
+  /* background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/symphony.png); */
+}
+
+.mobile {
+  background-color: #ffffff;
+  padding: .5em 0;
+}
+
+.credit-card {
+  background: rgb(241,241,239);
+  margin: 1em auto;
+  padding:  2.5em 1em 2em 1.5em;
+  border-radius: 10px;
+  border-top: 2.5em #00B5B5 solid;
+  box-shadow: rgba(0, 0, 0, 0.156863) 0 2px 1px 0, rgba(0, 0, 0, 0.117647) 0 0 0 0;
+  max-width: 19.063em;
+  height: 12.031em;
+}
+
+.payment-form {
+  margin: 2em 1em;
+}
+
+fieldset {
+  border: none;
+}
+
+input[type="text"] {
+    width: 100%;
+    vertical-align: top;
+    border: 2px solid #00B5B5;
+    border-radius: 4px;
+    font-size: 1.25em;
+    margin: 10px 5px;
+    font-weight: 100;
+    padding: 10px 10px 10px 0;
+    text-indent: 18px;
+    line-height: 20px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#expiration, #security {
+  width: 4.25em;
+}
+
+input[type="checkbox"] {
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  width: 1.75em;
+}
+
+#security, #sec-label {
+  margin-left: 2.5em;
+}
+
+.credit-card span {
+  font-family: 'courier';
+  font-size: 1.125em;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  display: block;
+  margin-top: .25em;
+}
+
+button {
+  width: 20em;
+  color: #ffffff;
+  background-color: #00B5B5;
+  border: none;
+  padding: 10px 10px 10px 0;
+  font-size: 1.25em;
+  width: 100%;
+  margin: 10px 5px;
+  box-shadow: rgba(0, 0, 0, 0.156863) 0px 2px 5px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
+}
+
+label > span {
+  line-height: 1.5em;
+}
+
