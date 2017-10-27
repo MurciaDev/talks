@@ -67,6 +67,4 @@
 
 ![October 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_26102017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-4-7/fullscreen)
-
 - [Desarrollo de arquitecturas CSS basadas en ITCSS](https://github.com/MurciaFrontend/Talks/blob/master/meetup-26-10-2017/desarrollo-arquitecturas-itcss.pdf) por [Juan Carlos Ruiz (@klaufel)](https://twitter.com/klaufel)
