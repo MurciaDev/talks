@@ -71,3 +71,10 @@
 
 - [Desarrollo de arquitecturas CSS basadas en ITCSS](https://github.com/MurciaFrontend/Talks/blob/master/meetup-26-10-2017/desarrollo-arquitecturas-itcss.pdf) por [Juan Carlos Ruiz (@klaufel)](https://twitter.com/klaufel)
 
+
+### November 2017
+
+
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-5-8-9/fullscreen)
+
+- [Introducción a Git](http://slides.com/earthlandto/git-basics/fullscreen) por [Alber López (@earthlandto)](https://twitter.com/earthlandto)
