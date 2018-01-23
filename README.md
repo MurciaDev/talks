@@ -6,7 +6,7 @@
 
 ![Jan 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_26012017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/deck)
+- [Icebreaker](http://slides.com/murciafrontend/deck)
 
 - [EmberJS: or How I learned to stop worrying and love JavaScript frameworks](https://docs.google.com/presentation/d/1KihLzGkToTjiYidVVZv-IygiKeczJ6f0elgi2ZsvsGs) ([source code](https://github.com/Gorzas/ember-example)) por [José David Cano (@gorzas)](https://twitter.com/gorzas)
 
@@ -14,7 +14,7 @@
 
 ![Feb 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_22022017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/deck-3)
+- [Icebreaker](http://slides.com/murciafrontend/deck-3)
 
 - [Nomenclaturas CSS (:zap:)](https://drive.google.com/open?id=0B0FWfNNansXfdmdCVVhzY2FvYkE) por [Javier Sánchez (@xavis)](https://twitter.com/xavis)
 
@@ -24,7 +24,7 @@
 
 ![Mar 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_29032017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-0669e372-93af-491f-b612-19a760d39895)
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-0669e372-93af-491f-b612-19a760d39895)
 
 - [No, no eres un usuario (:zap:)](./meetup-29-03-2017/no-no-eres-un-usuario/noeresunusuario.md) ([en HTML](./meetup-29-03-2017/no-no-eres-un-usuario/noeresunusuario.html)) por [Eduardo Rey (@seduerey)](https://twitter.com/seduerey)
 
@@ -35,9 +35,9 @@
 
 ![Apr 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_26042017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-4/fullscreen)
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-4/fullscreen)
 
-- [Diseñador & Desarrollador: Una historia de amor](http://slides.com/murciafrontendmurciafrontend/deck-7/fullscreen) por [Silvia Calavera (@silviacalavera)](https://twitter.com/silviacalavera)
+- [Diseñador & Desarrollador: Una historia de amor](http://slides.com/murciafrontend/deck-7/fullscreen) por [Silvia Calavera (@silviacalavera)](https://twitter.com/silviacalavera)
 
 - [Optimización de rendimiento web para dinosaurios](https://jmlweb.github.io/optimizacion-dinosaurios/) por [José Manuel Lucas (@jmlweb)](https://twitter.com/jmlweb)
 
@@ -46,7 +46,7 @@
 
 ![May 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_26052017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-5/fullscreen)
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-5/fullscreen)
 
 - [Flexbox 101 (:zap:)](https://slides.com/breadadams/flexbox-101/) por [Brad Adams (@breadadams)](https://twitter.com/breadadams)
 
@@ -58,7 +58,7 @@
 
 ![September 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_28092017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-4-7/fullscreen)
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-4-7/fullscreen)
 
 - [Introducción a Vue.js](https://www.icloud.com/keynote/0BtpEbqCkQixtFcI1njZIq3Lw#Presentacio%CC%81n_Vue) por [Javier Martinez (@beliolfa)](https://twitter.com/beliolfa)
 
@@ -67,6 +67,14 @@
 
 ![October 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_26102017.jpeg)
 
-- [Icebreaker](http://slides.com/murciafrontendmurciafrontend/murcia-frontend-intro-5-8#/)
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-5-8#/fullscreen)
 
 - [Desarrollo de arquitecturas CSS basadas en ITCSS](https://github.com/MurciaFrontend/Talks/blob/master/meetup-26-10-2017/desarrollo-arquitecturas-itcss.pdf) por [Juan Carlos Ruiz (@klaufel)](https://twitter.com/klaufel)
+
+
+### November 2017
+
+
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-5-8-9/fullscreen)
+
+- [Introducción a Git](http://slides.com/earthlandto/git-basics/fullscreen) por [Alber López (@earthlandto)](https://twitter.com/earthlandto)
