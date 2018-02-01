@@ -78,3 +78,13 @@
 - [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-5-8-9/fullscreen)
 
 - [Introducción a Git](http://slides.com/earthlandto/git-basics/fullscreen) por [Alber López (@earthlandto)](https://twitter.com/earthlandto)
+
+
+### January 2018
+
+
+- [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-4-7-10#/fullscreen)
+
+- [Introducción a CSS Grid Layout](https://github.com/MurciaFrontend/Talks/blob/master/meetup-25-01-2018/introduccion-css-grid-layout/introduccion-css-grid-layout.pdf) por [Juan Carlos Ruiz (@klaufel)](https://twitter.com/klaufel)
+
+- [Introducción a React.js](https://speakerdeck.com/kutyel/introduccion-a-react-dot-js) por [Flavio Corpa (@flaviocorpa)](https://twitter.com/flaviocorpa)
