@@ -74,11 +74,13 @@
 
 ### November 2017
 
+![November 2017 Banner](https://raw.githubusercontent.com/MurciaFrontend/Talks/master/img/banner_30112017.jpeg)
 
 - [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-5-8-9/fullscreen)
 
 - [Introducción a Git](http://slides.com/earthlandto/git-basics/fullscreen) por [Alber López (@earthlandto)](https://twitter.com/earthlandto)
 
+- [Consigue información de cualquier web con Microlink.io](https://github.com/MurciaFrontend/Talks/blob/master/meetup-30-11-2017/microlink.io.pdf) por [@Kikobeats](https://twitter.com/kikobeats)
 
 ### January 2018
 
