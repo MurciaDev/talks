@@ -15,7 +15,13 @@ Puedes seguirnos por cualquiera de estos sitios para montenerte informado:
 
 ## Meetups & talks
 
-### Season 2 (current)
+### Season 3 (current)
+
+#### February 2019
+
+* [Fundamentos de programación funcional en JavaScript](./meetup-2019-02-01/) por [Roberto Serrano Marcos (@bilki)](https://twitter.com/bilki)
+
+### Season 2
 
 #### January 2018
 * [Icebreaker](http://slides.com/murciafrontend/murcia-frontend-intro-4-7-10#/fullscreen)
