@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "sanctuary": "latest",
+    "funfix": "latest",
+    "immutable": "latest",
+    "moment": "latest",
+    "crocks": "latest"
+  }
+}
