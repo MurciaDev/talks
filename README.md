@@ -13,12 +13,22 @@ Puedes seguirnos por cualquiera de estos sitios para montenerte informado:
 
 ## Meetups & talks
 
-### Season 3 (current)
+### Season 4
+
+💪 Is coming... 🦠😷
+
+### Season 3
+
+#### May 2019
+
+- [Meetup](https://www.meetup.com/es-ES/Murcia-Frontend/events/261014225/)
+- [Usabilidad, ¿Por qué es importante? (:zap:)](./meetup-2019-05-17/por-que-es-importante-la-usabilidad) por [Míriam González (@miriamgonp)](https://twitter.com/miriamgonp)
+- [Estilizando componentes en React con styled-components](./meetup-2019-05-17/estilizando-componentes-en-react-con-styled-components) por [Juan Carlos Ruiz (@klaufel)](https://twitter.com/klaufel)
 
 #### April 2019
 
 - [Meetup](https://www.meetup.com/es-ES/Murcia-Frontend/events/260179886/)
-- [Introducción a Ramda](./meetup-2019-04-05/introduccion-a-ramda) por [José Tudela (@josej_tudela)](https://twitter.com/josej_tudela)
+- [Introducción a Ramda (:zap:)](./meetup-2019-04-05/introduccion-a-ramda) por [José Tudela (@josej_tudela)](https://twitter.com/josej_tudela)
 - [Una historia de testing efectivo con JS](./meetup-2019-04-05/una-historia-de-testing-efectivo-en-js) por [José Manuel Lucas (@jmlweb)](https://twitter.com/jmlweb)
 
 #### February 2019
