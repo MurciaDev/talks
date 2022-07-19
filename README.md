@@ -1,8 +1,8 @@
 # MurciaDev
 
-<img align="right" height=90 src=img/logo-murciadev.png>
-
 ## ¿Quiénes somos?
+
+<img align="right" height=90 src=img/logo-murciadev.png>
 
 Somos un grupo de entusiastas del desarrollo y las nuevas tecnologías. Nuestro objetivo es compartir nuestro conocimiento y pasión por este maravilloso mundo. Nuestras charlas estarán ubicadas en Murcia, pero al final, esta es una comunidad en línea, ¡así que cualquier persona, independientemente de donde viva, es bienvenida!
 
