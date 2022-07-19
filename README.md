@@ -1,17 +1,38 @@
-# Murcia Frontend
+# MurciaDev
 
-<img align="right" height=90 src=img/logo-murciafrontend.png>
+<img align="right" height=90 src=img/logo-murciadev.png>
 
-Apasionados del desarrollo front-end y de las tecnologías web en Murcia y alrededores, ¡esto es una llamamiento para vosotros!
-Nos reunimos mensualmente para intercambiar experiencias y opiniones sobre este ámbito del desarrollo ya sea con exposiciones y charlas o con conversaciones entre todos los developers y apasionados.
+## ¿Quiénes somos?
+
+Somos un grupo de entusiastas del desarrollo y las nuevas tecnologías. Nuestro objetivo es compartir nuestro conocimiento y pasión por este maravilloso mundo. Nuestras charlas estarán ubicadas en Murcia, pero al final, esta es una comunidad en línea, ¡así que cualquier persona, independientemente de donde viva, es bienvenida!
 
 Puedes seguirnos por cualquiera de estos sitios para montenerte informado:
 
-> [Meetup](https://www.meetup.com/es-ES/Murcia-Frontend/) &nbsp;&middot;&nbsp; > [Slack](https://murciadev.slack.com/) &nbsp;&middot;&nbsp;
-> GitHub [@MurciaFrontend](https://github.com/MurciaFrontend) &nbsp;&middot;&nbsp;
-> Twitter [@MurciaFrontend](https://twitter.com/MurciaFrontend/)
+:tada: [Meetup](https://www.meetup.com/es-ES/murciadev/) &nbsp;&middot;&nbsp; :speech_balloon: [Discord](https://discord.com/invite/hJkbbF4yQb) &nbsp;&middot;&nbsp; :octocat: GitHub [@MurciaDev](https://github.com/MurciaDev) &nbsp;&middot;&nbsp; :bird: Twitter [@MurciaDev](https://twitter.com/murciadev)
 
-## Meetups & talks
+## Buscamos speakers
+
+Si deseas dar una charla sobre cualquier tema relacionado con el desarrollo de software puedes ponerte en contacto con nosotros o crear una issue en este mismo repositorio indicando:
+
+- Título de la charla y un pequeño resumen
+- Nombre y redes sociales que veas conveniente (twitter, gmail, github, linkedin, facebook, blog...)
+- Breve presentación personal voluntaria (puedes decir dónde trabajas o estudias, por ejemplo)
+- Foto o avatar para anunciar tu charla
+
+Una vez veamos tu propuesta, hablaremos y coordinaremos cuál es la mejor fecha y espacio para presentar tu charla.
+
+## Meetups y Charlas
+
+### 2022
+
+#### Julio
+
+- [Meetup](https://www.meetup.com/es-ES/murciadev/events/286771412/)
+- [Testing basado en propiedades](./murciadev-2022-07-14/) por [Roberto Serrano (@bilki)](https://twitter.com/bilki)
+
+---
+
+## Antiguas charlas MurciaFrontend (pre-covid)
 
 ### Season 4
 
@@ -89,14 +110,3 @@ Puedes seguirnos por cualquiera de estos sitios para montenerte informado:
 
 - [Icebreaker](http://slides.com/murciafrontend/deck)
 - [EmberJS: or How I learned to stop worrying and love JavaScript frameworks](https://docs.google.com/presentation/d/1KihLzGkToTjiYidVVZv-IygiKeczJ6f0elgi2ZsvsGs) ([source code](https://github.com/Gorzas/ember-example)) por [José David Cano (@gorzas)](https://twitter.com/gorzas)
-
-## Continuamente buscamos speakers!!
-
-Si deseas dar una charla en el próximo Meetup de Murcia Frontend, puedes ponerte en contacto con nosotros o crear un issue indicando:
-
-> - Título de la charla y un briefing
-> - Nombre y RRSS (#slack, twitter, gmail, linkedin, facebook...)
-> - Breve ocupación actual (introducción)
-> - Foto
-
-Una vez veamos tu propuesta, hablamos y nos coordinamos para ver en qué fecha podrías dar tu charla.

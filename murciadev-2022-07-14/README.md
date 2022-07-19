@@ -1,5 +1,7 @@
 # Testing basado en propiedades
 
+![MurciaDev Banner](../img/banner_20220714.webp)
+
 Repositorio de acompañamiento para mi charla sobre testing basado en propiedades. Contiene dos módulos:
 
 * Módulo con las slides, escritas en markdown, con código Scala ejecutado usando [`mdoc`](https://scalameta.org/mdoc/), y presentado usando [`reveal`](https://revealjs.com/)
