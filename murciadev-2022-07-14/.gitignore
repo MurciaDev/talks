@@ -1,0 +1,6 @@
+*.class
+*.log
+.vscode
+target/
+project/project/
+.bloop
